@@ -8,19 +8,19 @@ const categorias = [
         palabras: [
             'guitarra',  /* 0 */
             'piano',     /* 1 */
-            'batería',   /* 2 */
-            'violín',    /* 3 */
+            'bateria',   /* 2 */
+            'violin',    /* 3 */
             'trompeta',  /* 4 */
-            'saxofón',   /* 5 */
+            'saxofon',   /* 5 */
             'flauta',    /* 6 */
-            'armónica'   /* 7 */
+            'armonica'   /* 7 */
         ]
     },
     {
         nombre: 'Frutas',  // Nombre de la lista
         palabras: [
             'manzana',    /* 0 */
-            'plátano',    /* 1 */
+            'platano',    /* 1 */
             'naranja',    /* 2 */
             'fresa',      /* 3 */
             'kiwi',       /* 4 */
@@ -35,7 +35,7 @@ const categorias = [
             'ingeniero',  /* 0 */
             'arquitecto', /* 1 */
             'abogado',    /* 2 */
-            'médico',     /* 3 */
+            'medico',     /* 3 */
             'profesor',   /* 4 */
             'carpintero', /* 5 */
             'electricista', /* 6 */
